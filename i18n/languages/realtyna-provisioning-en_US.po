@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Realtyna Provisioning\n"
+"POT-Creation-Date: 2018-07-30 06:47-0400\n"
+"PO-Revision-Date: 2018-07-30 06:47-0400\n"
+"Last-Translator: Howard <howard@realtyna.com>\n"
+"Language-Team: Realtyna <info@realtyna.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_x;_ex;esc_attr__;"
+"esc_attr_e;esc_attr_x;_n;_nx\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: RTPROV.php:55 RTPROV.php:64 app/includes/plugin/hooks.php:45
+#: app/includes/plugin/hooks.php:54
+msgid "Cheating huh?"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/authentication.php:6
+#: app/html/menus/dashboard/steps/forgot.php:6
+#: app/html/menus/dashboard/steps/install.php:15
+#: app/html/menus/dashboard/steps/logout.php:10
+#: app/html/menus/dashboard/steps/search.php:23 app/includes/menus.php:35
+msgid "Realtyna Provisioning"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/authentication.php:8
+msgid ""
+"Please register or login to Realtyna Provisioning server then you can search "
+"between all packages and install desired packages on your website!"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/authentication.php:13
+#: app/html/menus/dashboard/steps/authentication.php:25
+msgid "Register"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/authentication.php:16
+msgid "Name"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/authentication.php:20
+#: app/html/menus/dashboard/steps/authentication.php:34
+#: app/html/menus/dashboard/steps/forgot.php:16
+msgid "Email"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/authentication.php:31
+#: app/html/menus/dashboard/steps/authentication.php:43
+msgid "Login"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/authentication.php:38
+#: app/html/menus/dashboard/steps/forgot.php:32
+msgid "Password"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/authentication.php:46
+msgid "Forgot your password?"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/forgot.php:8
+msgid "Please insert your email to reset your password!"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/forgot.php:13
+#: app/html/menus/dashboard/steps/forgot.php:25
+#: app/html/menus/dashboard/steps/forgot.php:42
+msgid "Reset Password"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/forgot.php:19
+msgid "Send"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/forgot.php:28
+msgid "Security Code"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/forgot.php:36
+msgid "Password Confirmation"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/install.php:17
+msgid "Let's install the package!"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/install.php:22
+msgid "Request is not valid so we cannot install the package!"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/install.php:24
+msgid "No package found with the given ID!"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/install.php:29
+msgid "Back to Packages"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/install.php:45
+#: app/html/menus/dashboard/steps/install.php:91
+msgid "Install"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/install.php:60
+msgid "Installation Started ...."
+msgstr ""
+
+#: app/html/menus/dashboard/steps/install.php:61
+msgid ""
+"Please do not navigate to other pages untill you see success or error "
+"message."
+msgstr ""
+
+#: app/html/menus/dashboard/steps/install.php:62
+msgid "Now we're downloading the package ...."
+msgstr ""
+
+#: app/html/menus/dashboard/steps/install.php:65
+msgid "Installing ..."
+msgstr ""
+
+#: app/html/menus/dashboard/steps/logout.php:12
+msgid "Logging out from the server ..."
+msgstr ""
+
+#: app/html/menus/dashboard/steps/logout.php:16
+msgid "Logout request is not valid!"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/logout.php:18
+msgid "Successfully logged out from the Realtyna Provisioning Server!"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/search.php:25
+msgid "You can search in repository and install the packages that you like."
+msgstr ""
+
+#: app/html/menus/dashboard/steps/search.php:33
+msgid "Keyword ..."
+msgstr ""
+
+#: app/html/menus/dashboard/steps/search.php:34
+msgid "Category"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/search.php:40
+msgid "Search"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/search.php:43
+msgid "Logout"
+msgstr ""
+
+#: app/html/menus/dashboard/steps/search.php:49
+msgid "Click on the package name for installation."
+msgstr ""
+
+#: app/html/menus/dashboard/steps/search.php:59
+msgid "No package found!"
+msgstr ""
+
+#: app/includes/menus.php:35
+msgid "R. Provisioning"
+msgstr ""
+
+#: app/includes/menus/dashboard.php:73 app/includes/menus/dashboard.php:124
+#: app/includes/menus/dashboard.php:175 app/includes/menus/dashboard.php:220
+#: app/includes/menus/dashboard.php:275 app/includes/menus/dashboard.php:342
+msgid "Security Nonce is Missed!"
+msgstr ""
+
+#: app/includes/menus/dashboard.php:76 app/includes/menus/dashboard.php:127
+#: app/includes/menus/dashboard.php:178 app/includes/menus/dashboard.php:223
+#: app/includes/menus/dashboard.php:278 app/includes/menus/dashboard.php:345
+msgid "Security Nonce is Invalid!"
+msgstr ""
+
+#: app/includes/menus/dashboard.php:101
+msgid "You're successfully registered in the Realtyna Provisioning Server."
+msgstr ""
+
+#: app/includes/menus/dashboard.php:152
+msgid "You're successfully logged in to the Realtyna Provisioning Server."
+msgstr ""
+
+#: app/includes/menus/dashboard.php:197
+msgid ""
+"Please check your inbox and insert the code that you received in the form. "
+"Also insert and confirm your new password."
+msgstr ""
+
+#: app/includes/menus/dashboard.php:251
+msgid ""
+"Your new password is set successfully and also you logged in automatically "
+"to the system."
+msgstr ""
+
+#: app/includes/menus/dashboard.php:301
+msgid "Download was successful!"
+msgstr ""
+
+#: app/includes/menus/dashboard.php:302
+msgid "We are still working to install it. Thanks for your patience ...."
+msgstr ""
+
+#: app/includes/menus/dashboard.php:314
+msgid "We're not able to save the file in your server due to an error!"
+msgstr ""
+
+#: app/includes/menus/dashboard.php:326
+msgid "An unknown error occurred during downloading the package!"
+msgstr ""
+
+#: app/includes/menus/dashboard.php:362
+msgid ""
+"We couldn't extract the package content. Please make sure ZipArchive PHP "
+"Extension is enabled on your server!"
+msgstr ""
+
+#: app/includes/menus/dashboard.php:376
+msgid "We couldn't find the package installer file!"
+msgstr ""
+
+#: app/includes/menus/dashboard.php:393
+msgid "We couldn't find the installer class!"
+msgstr ""
+
+#: realtyna-provisioning.php:23
+#, php-format
+msgid ""
+"%s needs at-least PHP 5.3.10 or higher while your server PHP version is %s. "
+"Please contact your host provider and ask them to upgrade PHP of your server "
+"or change your host provider completely."
+msgstr ""
+
+#: realtyna-provisioning.php:41
+#, php-format
+msgid ""
+"%s needs at-least WordPress 4.0.0 or higher while your WordPress version is "
+"%s. Please update your WordPress to latest version first."
+msgstr ""
+
+#: realtyna-provisioning.php:57
+#, php-format
+msgid ""
+"%s plugin should be installed and activated otherwise you cannot use %s "
+"plugin."
+msgstr ""
